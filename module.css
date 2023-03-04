@@ -1,0 +1,97 @@
+*{
+    font-size: 10px;
+    background-color: black;
+    color: white;
+}
+.image1{
+    width: 80%;
+    height: 80vh;
+    margin: 20px;
+    padding: 40px;
+    background-image: url(pizza.jpg);
+}
+.image1 paragraph{
+    text-align: center;
+    margin: 40px;
+}
+.aboutus{
+    text-align: center;
+}
+.img-class{
+    display: flex;
+    flex-direction: row-reverse;
+    margin: 30px;
+    
+}
+.menu{
+    text-align: center;
+}
+.para-menu{
+    text-align: center;
+    margin: 30px;
+    width: 80%;
+    word-break: break-all;s
+   
+}
+.mainmenu{
+    display: flex: ;
+}
+.allitems{
+margin-left: 60px;
+}
+.headfind{
+text-align: center;
+}
+.Find{
+    margin: 30px;
+}
+.content{
+   width: 40%;
+   
+}
+.bi span
+    margin: 40px;
+}
+.bi bi{
+    padding: 40px;
+}
+.one{
+    margin: 30px;
+}
+.footer{
+    margin-top: 190px;
+}
+.together{
+    display: flex;
+    flex-direction: row;
+    justify-content: right;
+    
+}
+.together1{
+    display: flex;
+    flex-direction: row;
+    justify-content: right;
+    display: block;
+    
+}
+.paragraph{
+    margin: 40px;
+}
+}
+.right{
+    padding: 10px;
+}
+.heading1{margin: 30px;}
+.footer-background{
+    background-color: black;
+    ;
+    width: 100%;
+    padding: 10rem 4px;
+  
+}
+.footer{
+    width: 100%;
+}
+.form1{
+    width: 180px;
+}
